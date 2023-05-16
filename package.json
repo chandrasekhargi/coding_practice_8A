@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "name": "movies-database",
+=======
+    "name": "covid19-india-database",
+>>>>>>> covid Q
     "version": "1.0.0",
     "description": "",
     "main": "app.js",
