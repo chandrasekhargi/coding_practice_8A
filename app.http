@@ -16,7 +16,7 @@ GET http://localhost:3001/movies/1/
 ###
 
 //PUT API 
-PUT http://localhost:3001/movies/121/
+PUT http://localhost:3001/movies/12/
 Content-Type: application/json 
 
 {
@@ -35,5 +35,5 @@ GET http://localhost:3001/directors/
 ###
 
 //Movie with DirectorId
-GET http://localhost:3001/directors/2/movies/ 
+GET http://localhost:3001/directors/10/movies/ 
 ###
